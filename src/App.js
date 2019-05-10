@@ -11,8 +11,9 @@ import { Jumbotron } from './components/Jumbotron';
 function App() {
   return (
     <React.Fragment>
+      <NavigationBar/>
       <Router>
-        <NavigationBar/>
+        
         <Jumbotron/>
         <Layout>
           <Switch>
