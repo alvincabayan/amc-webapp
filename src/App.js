@@ -1,20 +1,21 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
-import {Home} from './components/Home'
-import {About} from './components/About'
-import {Contact} from './components/Contact'
-import {NoMatch} from './components/NoMatch'
-import { Layout } from './components/Layout'
-import {NavigationBar} from './components/NavigationBar'
-import { Jumbotron } from './components/Jumbotron';
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {Home} from './components/Home';
+import {About} from './components/About';
+import {Contact} from './components/Contact';
+import {NoMatch} from './components/NoMatch';
+import {Layout} from './components/Layout';
+import {NavigationBar} from './components/NavigationBar';
+import {HomeJumbotron} from './components/HomeJumbotron';
+
+
 
 function App() {
   return (
     <React.Fragment>
-      <NavigationBar/>
       <Router>
-        
-        <Jumbotron/>
+        <NavigationBar/>
+        <HomeJumbotron/>
         <Layout>
           <Switch>
             <Route exact path="/" component={Home} />
@@ -24,6 +25,7 @@ function App() {
           </Switch>
         </Layout>
       </Router>
+      
     </React.Fragment>
   );
 }
