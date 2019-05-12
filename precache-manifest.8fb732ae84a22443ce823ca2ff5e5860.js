@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd3390aeef597c15c90f34a509afcaac",
+    "revision": "e9412288b8498914fc59a8cfbff1b21b",
     "url": "/amc-webapp/index.html"
   },
   {
-    "revision": "23fcf9078719b9658885",
+    "revision": "df73988f2d1122cc4dee",
     "url": "/amc-webapp/static/css/main.795991f2.chunk.css"
   },
   {
-    "revision": "9043bdf172e24485935e",
-    "url": "/amc-webapp/static/js/2.68bccca0.chunk.js"
+    "revision": "e5d58a7d666578f7b55b",
+    "url": "/amc-webapp/static/js/2.a2fe3af1.chunk.js"
   },
   {
-    "revision": "23fcf9078719b9658885",
-    "url": "/amc-webapp/static/js/main.d3148f1d.chunk.js"
+    "revision": "df73988f2d1122cc4dee",
+    "url": "/amc-webapp/static/js/main.a6996467.chunk.js"
   },
   {
     "revision": "e978901b99e8cd5bef23",
