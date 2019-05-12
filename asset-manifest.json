@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/amc-webapp/static/css/main.795991f2.chunk.css",
-    "main.js": "/amc-webapp/static/js/main.10aa95e0.chunk.js",
-    "main.js.map": "/amc-webapp/static/js/main.10aa95e0.chunk.js.map",
-    "runtime~main.js": "/amc-webapp/static/js/runtime~main.6d7a598b.js",
-    "runtime~main.js.map": "/amc-webapp/static/js/runtime~main.6d7a598b.js.map",
-    "static/js/2.1697b99e.chunk.js": "/amc-webapp/static/js/2.1697b99e.chunk.js",
-    "static/js/2.1697b99e.chunk.js.map": "/amc-webapp/static/js/2.1697b99e.chunk.js.map",
-    "index.html": "/amc-webapp/index.html",
-    "precache-manifest.988d95193df68e77ae919e0b94a8ba0f.js": "/amc-webapp/precache-manifest.988d95193df68e77ae919e0b94a8ba0f.js",
-    "service-worker.js": "/amc-webapp/service-worker.js",
-    "static/css/main.795991f2.chunk.css.map": "/amc-webapp/static/css/main.795991f2.chunk.css.map",
-    "static/media/beerImage.jpg": "/amc-webapp/static/media/beerImage.056c87b8.jpg"
+    "main.css": "/static/css/main.795991f2.chunk.css",
+    "main.js": "/static/js/main.3731e7c0.chunk.js",
+    "main.js.map": "/static/js/main.3731e7c0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.3df458e7.chunk.js": "/static/js/2.3df458e7.chunk.js",
+    "static/js/2.3df458e7.chunk.js.map": "/static/js/2.3df458e7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1712e9e9d5f025b78d0311b9d673420d.js": "/precache-manifest.1712e9e9d5f025b78d0311b9d673420d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/static/css/main.795991f2.chunk.css.map",
+    "static/media/beerImage.jpg": "/static/media/beerImage.056c87b8.jpg"
   }
 }
