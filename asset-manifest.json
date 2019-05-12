@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amc-webapp/static/css/main.795991f2.chunk.css",
-    "main.js": "/amc-webapp/static/js/main.88fbd220.chunk.js",
-    "main.js.map": "/amc-webapp/static/js/main.88fbd220.chunk.js.map",
+    "main.js": "/amc-webapp/static/js/main.17abdead.chunk.js",
+    "main.js.map": "/amc-webapp/static/js/main.17abdead.chunk.js.map",
     "runtime~main.js": "/amc-webapp/static/js/runtime~main.6d7a598b.js",
     "runtime~main.js.map": "/amc-webapp/static/js/runtime~main.6d7a598b.js.map",
     "static/js/2.68bccca0.chunk.js": "/amc-webapp/static/js/2.68bccca0.chunk.js",
     "static/js/2.68bccca0.chunk.js.map": "/amc-webapp/static/js/2.68bccca0.chunk.js.map",
     "index.html": "/amc-webapp/index.html",
-    "precache-manifest.4b4caf9ee27ed045685fb487482218ac.js": "/amc-webapp/precache-manifest.4b4caf9ee27ed045685fb487482218ac.js",
+    "precache-manifest.e2380f0d699dfbb3ae311ac883ecbec7.js": "/amc-webapp/precache-manifest.e2380f0d699dfbb3ae311ac883ecbec7.js",
     "service-worker.js": "/amc-webapp/service-worker.js",
     "static/css/main.795991f2.chunk.css.map": "/amc-webapp/static/css/main.795991f2.chunk.css.map",
     "static/media/beerImage.jpg": "/amc-webapp/static/media/beerImage.056c87b8.jpg"
